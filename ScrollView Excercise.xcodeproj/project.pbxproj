@@ -14,6 +14,7 @@
 		BDA8837E1FB21CD2000B3FEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDA8837D1FB21CD2000B3FEE /* Assets.xcassets */; };
 		BDA883811FB21CD2000B3FEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDA8837F1FB21CD2000B3FEE /* LaunchScreen.storyboard */; };
 		BDA8838C1FB21CD2000B3FEE /* ScrollView_ExcerciseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA8838B1FB21CD2000B3FEE /* ScrollView_ExcerciseTests.swift */; };
+		BDA883971FB2258B000B3FEE /* Koffer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BDA883961FB2258B000B3FEE /* Koffer.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		BDA883871FB21CD2000B3FEE /* ScrollView ExcerciseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ScrollView ExcerciseTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDA8838B1FB21CD2000B3FEE /* ScrollView_ExcerciseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollView_ExcerciseTests.swift; sourceTree = "<group>"; };
 		BDA8838D1FB21CD2000B3FEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDA883961FB2258B000B3FEE /* Koffer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Koffer.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				BDA883751FB21CD2000B3FEE /* ViewController.swift */,
 				BDA883771FB21CD2000B3FEE /* Main.storyboard */,
 				BDA8837D1FB21CD2000B3FEE /* Assets.xcassets */,
+				BDA883961FB2258B000B3FEE /* Koffer.jpg */,
 				BDA8837F1FB21CD2000B3FEE /* LaunchScreen.storyboard */,
 				BDA883821FB21CD2000B3FEE /* Info.plist */,
 				BDA8837A1FB21CD2000B3FEE /* ScrollView_Excercise.xcdatamodeld */,
@@ -186,6 +189,7 @@
 			files = (
 				BDA883811FB21CD2000B3FEE /* LaunchScreen.storyboard in Resources */,
 				BDA8837E1FB21CD2000B3FEE /* Assets.xcassets in Resources */,
+				BDA883971FB2258B000B3FEE /* Koffer.jpg in Resources */,
 				BDA883791FB21CD2000B3FEE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
