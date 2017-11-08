@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD9F34411FB3A96E002D9704 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD9F34401FB3A96E002D9704 /* MapViewController.swift */; };
 		BDA883741FB21CD2000B3FEE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA883731FB21CD2000B3FEE /* AppDelegate.swift */; };
 		BDA883761FB21CD2000B3FEE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA883751FB21CD2000B3FEE /* ViewController.swift */; };
 		BDA883791FB21CD2000B3FEE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDA883771FB21CD2000B3FEE /* Main.storyboard */; };
@@ -28,6 +29,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BD9F34401FB3A96E002D9704 /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		BDA883701FB21CD2000B3FEE /* ScrollView Excercise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ScrollView Excercise.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDA883731FB21CD2000B3FEE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BDA883751FB21CD2000B3FEE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				BDA8837F1FB21CD2000B3FEE /* LaunchScreen.storyboard */,
 				BDA883821FB21CD2000B3FEE /* Info.plist */,
 				BDA8837A1FB21CD2000B3FEE /* ScrollView_Excercise.xcdatamodeld */,
+				BD9F34401FB3A96E002D9704 /* MapViewController.swift */,
 			);
 			path = "ScrollView Excercise";
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				BDA883761FB21CD2000B3FEE /* ViewController.swift in Sources */,
 				BDA883741FB21CD2000B3FEE /* AppDelegate.swift in Sources */,
 				BDA8837C1FB21CD2000B3FEE /* ScrollView_Excercise.xcdatamodeld in Sources */,
+				BD9F34411FB3A96E002D9704 /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,6 +424,7 @@
 				BDA883921FB21CD2000B3FEE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BDA883931FB21CD2000B3FEE /* Build configuration list for PBXNativeTarget "ScrollView ExcerciseTests" */ = {
 			isa = XCConfigurationList;
@@ -428,6 +433,7 @@
 				BDA883951FB21CD2000B3FEE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
